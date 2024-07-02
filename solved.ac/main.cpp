@@ -72,5 +72,7 @@ int main()
 	}
 	std::cout << "\nLast subject Num : " << subjectNum - subjectInfo.size() << "\n\n";
 
+	system("pause");
+
 	return 0;
 }
